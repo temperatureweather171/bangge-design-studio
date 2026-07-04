@@ -430,6 +430,30 @@ img {
   font-size: clamp(16px, 1.8vw, 19px);
 }
 
+.contact-name {
+  color: var(--ink);
+}
+
+.contact-phone {
+  display: inline-block;
+  margin: 8px 0 18px;
+  border-bottom: 1px solid currentColor;
+  color: var(--ink);
+  font-size: clamp(28px, 4vw, 52px);
+  font-weight: 300;
+  line-height: 1.2;
+  transition: color 180ms ease;
+}
+
+.contact-phone:hover,
+.contact-phone:focus-visible {
+  color: var(--accent);
+}
+
+.contact-note {
+  color: var(--muted);
+}
+
 .modal {
   position: fixed;
   z-index: 50;
