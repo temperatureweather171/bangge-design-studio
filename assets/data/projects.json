@@ -1,0 +1,676 @@
+{
+  "brand": {
+    "name": "半格设计研究室",
+    "englishName": "HALF ARCHITECTS",
+    "years": "2018-2025",
+    "source": "半格建筑事务所作品集2025版"
+  },
+  "projects": [
+    {
+      "page": "2",
+      "title": "無料书铺 - 南塘书盒",
+      "location": "温州·鹿城",
+      "area": "2500 ㎡",
+      "summary": "我们一直认为市集是一种很好的商业形态：在一条必经的交通线上叠加密集的商业，从而创造出一种小尺度的，被商品和人群簇拥包裹着的购物气氛。所以，我们就在原有场地的走道上，置入了一个装满了书的盒子。用它来挤压空间，创造高密度和小尺度。 同时，又因为项目不只是一个单纯的书店，还有很多其他商家在里面，书店和各个商业业态的融合是关键，既要独立又要相融。因此这个盒子应该是一个连通器，连接着各个商户和上下空间。 作为一个精神避难所，不同于效率型空间，项目采用消解空间方向的方式让人们能在空间中漫步游走，愿意长时间停留在此并沉浸其中 ...",
+      "id": "p01",
+      "featured": true,
+      "images": [
+        {
+          "src": "./assets/img/projects/p01/p01-01-lg.webp",
+          "small": "./assets/img/projects/p01/p01-01-sm.webp",
+          "width": 1267,
+          "height": 1900,
+          "alt": "無料书铺 - 南塘书盒 项目图片 1"
+        },
+        {
+          "src": "./assets/img/projects/p01/p01-02-lg.webp",
+          "small": "./assets/img/projects/p01/p01-02-sm.webp",
+          "width": 1170,
+          "height": 989,
+          "alt": "無料书铺 - 南塘书盒 项目图片 2"
+        },
+        {
+          "src": "./assets/img/projects/p01/p01-03-lg.webp",
+          "small": "./assets/img/projects/p01/p01-03-sm.webp",
+          "width": 1267,
+          "height": 1900,
+          "alt": "無料书铺 - 南塘书盒 项目图片 3"
+        },
+        {
+          "src": "./assets/img/projects/p01/p01-04-lg.webp",
+          "small": "./assets/img/projects/p01/p01-04-sm.webp",
+          "width": 1267,
+          "height": 1900,
+          "alt": "無料书铺 - 南塘书盒 项目图片 4"
+        },
+        {
+          "src": "./assets/img/projects/p01/p01-05-lg.webp",
+          "small": "./assets/img/projects/p01/p01-05-sm.webp",
+          "width": 469,
+          "height": 703,
+          "alt": "無料书铺 - 南塘书盒 项目图片 5"
+        },
+        {
+          "src": "./assets/img/projects/p01/p01-06-lg.webp",
+          "small": "./assets/img/projects/p01/p01-06-sm.webp",
+          "width": 1900,
+          "height": 701,
+          "alt": "無料书铺 - 南塘书盒 项目图片 6"
+        }
+      ]
+    },
+    {
+      "page": "6",
+      "title": "無料书铺 - 温州五马街店",
+      "location": "温州·鹿城",
+      "area": "398 ㎡",
+      "summary": "老屋新生本项目坐落于温州老城最具代表的老街 \" 五马街 \" 上，是民国时期交通银行的旧址，沉淀着温州的一段历史回忆。 与那些大型商场相比，老商业街的二楼大多是灰暗的，因为面积太小，人们上来购物的交通成本很高。 如何勾起人们向上的欲望 ? 要么终点很欣慰要么过程很美好。所以设计上通过通高空间和一个红色楼梯来勾起人们向上探索的欲望… 脚手架搭起的一整面的书墙、透明的玻璃砖墙、红色铁质楼梯，以及几十年前的房梁和墙面，店内现代材料与早期的建筑痕迹并置在一起，既表达了空间的张力，也让这栋老城区的旧屋焕发了新的生机。 为了让这些 \" 过去 \" 的痕迹尽量保留下来，让现在加入的事物更“现在”，拆除了吊顶，暴露出原始的木屋架，并对整个屋顶进行了修缮 ...",
+      "id": "p02",
+      "featured": true,
+      "images": [
+        {
+          "src": "./assets/img/projects/p02/p02-01-lg.webp",
+          "small": "./assets/img/projects/p02/p02-01-sm.webp",
+          "width": 1267,
+          "height": 1900,
+          "alt": "無料书铺 - 温州五马街店 项目图片 1"
+        },
+        {
+          "src": "./assets/img/projects/p02/p02-02-lg.webp",
+          "small": "./assets/img/projects/p02/p02-02-sm.webp",
+          "width": 1900,
+          "height": 908,
+          "alt": "無料书铺 - 温州五马街店 项目图片 2"
+        },
+        {
+          "src": "./assets/img/projects/p02/p02-03-lg.webp",
+          "small": "./assets/img/projects/p02/p02-03-sm.webp",
+          "width": 1900,
+          "height": 1232,
+          "alt": "無料书铺 - 温州五马街店 项目图片 3"
+        },
+        {
+          "src": "./assets/img/projects/p02/p02-04-lg.webp",
+          "small": "./assets/img/projects/p02/p02-04-sm.webp",
+          "width": 1602,
+          "height": 272,
+          "alt": "無料书铺 - 温州五马街店 项目图片 4"
+        },
+        {
+          "src": "./assets/img/projects/p02/p02-05-lg.webp",
+          "small": "./assets/img/projects/p02/p02-05-sm.webp",
+          "width": 1900,
+          "height": 875,
+          "alt": "無料书铺 - 温州五马街店 项目图片 5"
+        },
+        {
+          "src": "./assets/img/projects/p02/p02-06-lg.webp",
+          "small": "./assets/img/projects/p02/p02-06-sm.webp",
+          "width": 1013,
+          "height": 1900,
+          "alt": "無料书铺 - 温州五马街店 项目图片 6"
+        },
+        {
+          "src": "./assets/img/projects/p02/p02-07-lg.webp",
+          "small": "./assets/img/projects/p02/p02-07-sm.webp",
+          "width": 1900,
+          "height": 1267,
+          "alt": "無料书铺 - 温州五马街店 项目图片 7"
+        },
+        {
+          "src": "./assets/img/projects/p02/p02-08-lg.webp",
+          "small": "./assets/img/projects/p02/p02-08-sm.webp",
+          "width": 1266,
+          "height": 1900,
+          "alt": "無料书铺 - 温州五马街店 项目图片 8"
+        }
+      ]
+    },
+    {
+      "page": "9",
+      "title": "青年理想咖",
+      "location": "温州·龙港",
+      "area": "748 ㎡",
+      "summary": "搭一个天幕在月湖公园的原拆基地上新建一栋露营仓，将其两侧打开，将湖面与广场连成一体； 并内种绿植，与户外自然完全融合，仿佛一个巨大的露营天幕； 不架一个取景器咖啡馆设计成一个取景器架在二层， 两端的视野连接着湖景和大草坪，造型与一层虑实结合，形成对比 ...",
+      "id": "p03",
+      "featured": true,
+      "images": [
+        {
+          "src": "./assets/img/projects/p03/p03-01-lg.webp",
+          "small": "./assets/img/projects/p03/p03-01-sm.webp",
+          "width": 1306,
+          "height": 1900,
+          "alt": "青年理想咖 项目图片 1"
+        },
+        {
+          "src": "./assets/img/projects/p03/p03-02-lg.webp",
+          "small": "./assets/img/projects/p03/p03-02-sm.webp",
+          "width": 1900,
+          "height": 1344,
+          "alt": "青年理想咖 项目图片 2"
+        },
+        {
+          "src": "./assets/img/projects/p03/p03-03-lg.webp",
+          "small": "./assets/img/projects/p03/p03-03-sm.webp",
+          "width": 1267,
+          "height": 1900,
+          "alt": "青年理想咖 项目图片 3"
+        },
+        {
+          "src": "./assets/img/projects/p03/p03-04-lg.webp",
+          "small": "./assets/img/projects/p03/p03-04-sm.webp",
+          "width": 1267,
+          "height": 1900,
+          "alt": "青年理想咖 项目图片 4"
+        }
+      ]
+    },
+    {
+      "page": "12",
+      "title": "無料书铺 - 杭州富阳店",
+      "location": "杭州·富阳",
+      "area": "844 ㎡",
+      "summary": "项目定位为小型文化综合体。整个场地设有三个方向的入口。中间区方正，适合设置图书区链接各处； 朝商业街一侧布置两个对外属性较强的咖啡区和剧本杀区； 靠近园区一侧布置了针对园区服务的轻食区。 设计以创造古典序列为组织空间的主要方式。 由书台和上方光井组成了一根根石柱，并根据柱网和零售尺度组合成柱廊。中间的秩序感提高了空间的精神属性，营造出一种充满纪念性的书店气氛，同时向周边衍生，并与周边区域自由的吊弧形顶形成对比，提高了空间的张力。",
+      "id": "p04",
+      "featured": true,
+      "images": [
+        {
+          "src": "./assets/img/projects/p04/p04-01-lg.webp",
+          "small": "./assets/img/projects/p04/p04-01-sm.webp",
+          "width": 794,
+          "height": 1123,
+          "alt": "無料书铺 - 杭州富阳店 项目图片 1"
+        },
+        {
+          "src": "./assets/img/projects/p04/p04-02-lg.webp",
+          "small": "./assets/img/projects/p04/p04-02-sm.webp",
+          "width": 795,
+          "height": 510,
+          "alt": "無料书铺 - 杭州富阳店 项目图片 2"
+        },
+        {
+          "src": "./assets/img/projects/p04/p04-03-lg.webp",
+          "small": "./assets/img/projects/p04/p04-03-sm.webp",
+          "width": 341,
+          "height": 510,
+          "alt": "無料书铺 - 杭州富阳店 项目图片 3"
+        },
+        {
+          "src": "./assets/img/projects/p04/p04-04-lg.webp",
+          "small": "./assets/img/projects/p04/p04-04-sm.webp",
+          "width": 342,
+          "height": 510,
+          "alt": "無料书铺 - 杭州富阳店 项目图片 4"
+        },
+        {
+          "src": "./assets/img/projects/p04/p04-05-lg.webp",
+          "small": "./assets/img/projects/p04/p04-05-sm.webp",
+          "width": 1589,
+          "height": 1123,
+          "alt": "無料书铺 - 杭州富阳店 项目图片 5"
+        }
+      ]
+    },
+    {
+      "page": "15",
+      "title": "乐清市图书馆大厅改造",
+      "location": "温州·乐清",
+      "area": "868 ㎡",
+      "summary": "图书馆是心灵栖息地，摆脱现状空间的日常与繁杂，重塑空间的仪式感和精神性 ...",
+      "id": "p05",
+      "featured": false,
+      "images": [
+        {
+          "src": "./assets/img/projects/p05/p05-01-lg.webp",
+          "small": "./assets/img/projects/p05/p05-01-sm.webp",
+          "width": 1428,
+          "height": 1900,
+          "alt": "乐清市图书馆大厅改造 项目图片 1"
+        },
+        {
+          "src": "./assets/img/projects/p05/p05-02-lg.webp",
+          "small": "./assets/img/projects/p05/p05-02-sm.webp",
+          "width": 874,
+          "height": 300,
+          "alt": "乐清市图书馆大厅改造 项目图片 2"
+        },
+        {
+          "src": "./assets/img/projects/p05/p05-03-lg.webp",
+          "small": "./assets/img/projects/p05/p05-03-sm.webp",
+          "width": 1085,
+          "height": 162,
+          "alt": "乐清市图书馆大厅改造 项目图片 3"
+        },
+        {
+          "src": "./assets/img/projects/p05/p05-04-lg.webp",
+          "small": "./assets/img/projects/p05/p05-04-sm.webp",
+          "width": 842,
+          "height": 308,
+          "alt": "乐清市图书馆大厅改造 项目图片 4"
+        },
+        {
+          "src": "./assets/img/projects/p05/p05-05-lg.webp",
+          "small": "./assets/img/projects/p05/p05-05-sm.webp",
+          "width": 182,
+          "height": 13,
+          "alt": "乐清市图书馆大厅改造 项目图片 5"
+        },
+        {
+          "src": "./assets/img/projects/p05/p05-06-lg.webp",
+          "small": "./assets/img/projects/p05/p05-06-sm.webp",
+          "width": 1900,
+          "height": 1396,
+          "alt": "乐清市图书馆大厅改造 项目图片 6"
+        },
+        {
+          "src": "./assets/img/projects/p05/p05-07-lg.webp",
+          "small": "./assets/img/projects/p05/p05-07-sm.webp",
+          "width": 1900,
+          "height": 1113,
+          "alt": "乐清市图书馆大厅改造 项目图片 7"
+        }
+      ]
+    },
+    {
+      "page": "19",
+      "title": "黑匣子小剧场",
+      "location": "温州·乐清",
+      "area": "405 ㎡",
+      "summary": "【黑匣子小剧场】制造暗部改造前现场以厚重的阵列墙体为主，利用原来的特征来营造独特的明暗层次 ...",
+      "id": "p06",
+      "featured": false,
+      "images": [
+        {
+          "src": "./assets/img/projects/p06/p06-01-lg.webp",
+          "small": "./assets/img/projects/p06/p06-01-sm.webp",
+          "width": 703,
+          "height": 1032,
+          "alt": "黑匣子小剧场 项目图片 1"
+        },
+        {
+          "src": "./assets/img/projects/p06/p06-02-lg.webp",
+          "small": "./assets/img/projects/p06/p06-02-sm.webp",
+          "width": 595,
+          "height": 472,
+          "alt": "黑匣子小剧场 项目图片 2"
+        },
+        {
+          "src": "./assets/img/projects/p06/p06-03-lg.webp",
+          "small": "./assets/img/projects/p06/p06-03-sm.webp",
+          "width": 271,
+          "height": 181,
+          "alt": "黑匣子小剧场 项目图片 3"
+        },
+        {
+          "src": "./assets/img/projects/p06/p06-04-lg.webp",
+          "small": "./assets/img/projects/p06/p06-04-sm.webp",
+          "width": 794,
+          "height": 1125,
+          "alt": "黑匣子小剧场 项目图片 4"
+        },
+        {
+          "src": "./assets/img/projects/p06/p06-05-lg.webp",
+          "small": "./assets/img/projects/p06/p06-05-sm.webp",
+          "width": 1900,
+          "height": 1267,
+          "alt": "黑匣子小剧场 项目图片 5"
+        }
+      ]
+    },
+    {
+      "page": "22",
+      "title": "云软件谷 AI 看书事务局",
+      "location": "温州·云软件谷",
+      "area": "750 ㎡",
+      "summary": "看书事务局的物料实验用材料与节点，来隐喻 \" 信息 \" 在现实与未来的不同呈现方式，同时来创造空间的张力 ...",
+      "id": "p07",
+      "featured": true,
+      "images": [
+        {
+          "src": "./assets/img/projects/p07/p07-01-lg.webp",
+          "small": "./assets/img/projects/p07/p07-01-sm.webp",
+          "width": 703,
+          "height": 1033,
+          "alt": "云软件谷 AI 看书事务局 项目图片 1"
+        },
+        {
+          "src": "./assets/img/projects/p07/p07-02-lg.webp",
+          "small": "./assets/img/projects/p07/p07-02-sm.webp",
+          "width": 497,
+          "height": 662,
+          "alt": "云软件谷 AI 看书事务局 项目图片 2"
+        },
+        {
+          "src": "./assets/img/projects/p07/p07-03-lg.webp",
+          "small": "./assets/img/projects/p07/p07-03-sm.webp",
+          "width": 842,
+          "height": 1123,
+          "alt": "云软件谷 AI 看书事务局 项目图片 3"
+        },
+        {
+          "src": "./assets/img/projects/p07/p07-04-lg.webp",
+          "small": "./assets/img/projects/p07/p07-04-sm.webp",
+          "width": 1588,
+          "height": 932,
+          "alt": "云软件谷 AI 看书事务局 项目图片 4"
+        }
+      ]
+    },
+    {
+      "page": "25",
+      "title": "乐清曲水书苑",
+      "location": "温州·乐清",
+      "area": null,
+      "summary": "：主楼 210 ㎡ / 副楼 100 ㎡ \" 书榭与书亭 \" 主楼三面临水，我们想造一座看书观景的 \" 书榭 \"。 主楼为了最大限度利用水景，我们创造高差让每个座位都能与水景对话。为了突出阶梯阅读区的宽敞视野，需要先压缩空间，穿过狭窄的书廊， 再看到环绕的水景，先抑后扬，提高空间的张力。 副楼面向广场，设置灰空间，并布置吧台，是一处服务整个广场的 \" 书亭 \", 两栋建筑相隔较远， 用相似的手法作为线索串起全场 ... 本项目获 2023 浙江省最美公共文化空间奖",
+      "id": "p08",
+      "featured": false,
+      "images": [
+        {
+          "src": "./assets/img/projects/p08/p08-01-lg.webp",
+          "small": "./assets/img/projects/p08/p08-01-sm.webp",
+          "width": 794,
+          "height": 1055,
+          "alt": "乐清曲水书苑 项目图片 1"
+        },
+        {
+          "src": "./assets/img/projects/p08/p08-02-lg.webp",
+          "small": "./assets/img/projects/p08/p08-02-sm.webp",
+          "width": 1900,
+          "height": 1327,
+          "alt": "乐清曲水书苑 项目图片 2"
+        },
+        {
+          "src": "./assets/img/projects/p08/p08-03-lg.webp",
+          "small": "./assets/img/projects/p08/p08-03-sm.webp",
+          "width": 1267,
+          "height": 1900,
+          "alt": "乐清曲水书苑 项目图片 3"
+        },
+        {
+          "src": "./assets/img/projects/p08/p08-04-lg.webp",
+          "small": "./assets/img/projects/p08/p08-04-sm.webp",
+          "width": 1900,
+          "height": 1007,
+          "alt": "乐清曲水书苑 项目图片 4"
+        },
+        {
+          "src": "./assets/img/projects/p08/p08-05-lg.webp",
+          "small": "./assets/img/projects/p08/p08-05-sm.webp",
+          "width": 1900,
+          "height": 1122,
+          "alt": "乐清曲水书苑 项目图片 5"
+        }
+      ]
+    },
+    {
+      "page": "28",
+      "title": "無料书铺 - 上海店",
+      "location": "上海",
+      "area": "463 ㎡",
+      "summary": "书架漫 \" 游 \" 场地极其不规则，利用率低。如何把方正的书台书柜布置到这些不规则的空间里 ? 我们向能穿行于各种异形空间的鱼群学习，将置书的老榆木板作为原型，生长复制，并变形成书柜、 坐席、吧台、隔墙，甚至屋檐 ... 我们想创造一个书的群落，让它们在空间里蔓延、 生长、相互连接，直到充满整个场地 ... 随着书的密度的增加，这里变成了人们的精神属地，一座高密度的 \" 信息仓库 \"。这些在头顶不停穿梭的书架也象征着上海这座城市的不眠不休 ...",
+      "id": "p09",
+      "featured": false,
+      "images": [
+        {
+          "src": "./assets/img/projects/p09/p09-01-lg.webp",
+          "small": "./assets/img/projects/p09/p09-01-sm.webp",
+          "width": 794,
+          "height": 1125,
+          "alt": "無料书铺 - 上海店 项目图片 1"
+        },
+        {
+          "src": "./assets/img/projects/p09/p09-02-lg.webp",
+          "small": "./assets/img/projects/p09/p09-02-sm.webp",
+          "width": 379,
+          "height": 568,
+          "alt": "無料书铺 - 上海店 项目图片 2"
+        },
+        {
+          "src": "./assets/img/projects/p09/p09-03-lg.webp",
+          "small": "./assets/img/projects/p09/p09-03-sm.webp",
+          "width": 703,
+          "height": 1033,
+          "alt": "無料书铺 - 上海店 项目图片 3"
+        }
+      ]
+    },
+    {
+      "page": "30",
+      "title": "乐清晨沐广场城市驿站",
+      "location": "温州·乐清",
+      "area": "200 ㎡",
+      "summary": "街心公园的同心圆建筑、室内、景观都以同一圆心如涟漪般发散招呼着街心公园各方向的人们 ...",
+      "id": "p10",
+      "featured": false,
+      "images": [
+        {
+          "src": "./assets/img/projects/p10/p10-01-lg.webp",
+          "small": "./assets/img/projects/p10/p10-01-sm.webp",
+          "width": 749,
+          "height": 1043,
+          "alt": "乐清晨沐广场城市驿站 项目图片 1"
+        },
+        {
+          "src": "./assets/img/projects/p10/p10-02-lg.webp",
+          "small": "./assets/img/projects/p10/p10-02-sm.webp",
+          "width": 1342,
+          "height": 1076,
+          "alt": "乐清晨沐广场城市驿站 项目图片 2"
+        },
+        {
+          "src": "./assets/img/projects/p10/p10-03-lg.webp",
+          "small": "./assets/img/projects/p10/p10-03-sm.webp",
+          "width": 624,
+          "height": 420,
+          "alt": "乐清晨沐广场城市驿站 项目图片 3"
+        },
+        {
+          "src": "./assets/img/projects/p10/p10-04-lg.webp",
+          "small": "./assets/img/projects/p10/p10-04-sm.webp",
+          "width": 1588,
+          "height": 893,
+          "alt": "乐清晨沐广场城市驿站 项目图片 4"
+        }
+      ]
+    },
+    {
+      "page": "33",
+      "title": "乐清正大广场书店",
+      "location": "温州·乐清",
+      "area": "155 ㎡",
+      "summary": "一家卖书的 \" 药 \" 店书亦良方，一粒红色药丸作为入口； 一个个抓药的盒子里放着独特的 \" 阅读配方 \";( 后期盒子会根据不同 \" 药性 \" 上色 )",
+      "id": "p11",
+      "featured": false,
+      "images": [
+        {
+          "src": "./assets/img/projects/p11/p11-01-lg.webp",
+          "small": "./assets/img/projects/p11/p11-01-sm.webp",
+          "width": 504,
+          "height": 895,
+          "alt": "乐清正大广场书店 项目图片 1"
+        },
+        {
+          "src": "./assets/img/projects/p11/p11-02-lg.webp",
+          "small": "./assets/img/projects/p11/p11-02-sm.webp",
+          "width": 1900,
+          "height": 1068,
+          "alt": "乐清正大广场书店 项目图片 2"
+        },
+        {
+          "src": "./assets/img/projects/p11/p11-03-lg.webp",
+          "small": "./assets/img/projects/p11/p11-03-sm.webp",
+          "width": 1069,
+          "height": 1900,
+          "alt": "乐清正大广场书店 项目图片 3"
+        }
+      ]
+    },
+    {
+      "page": "35",
+      "title": "乐清文化馆周边景观提升",
+      "location": "温州·乐清",
+      "area": "500 ㎡",
+      "summary": "一条彩带串起不同功能的圆形场地，象征连续而多彩的文化生活 ...",
+      "id": "p12",
+      "featured": false,
+      "images": [
+        {
+          "src": "./assets/img/projects/p12/p12-01-lg.webp",
+          "small": "./assets/img/projects/p12/p12-01-sm.webp",
+          "width": 719,
+          "height": 460,
+          "alt": "乐清文化馆周边景观提升 项目图片 1"
+        },
+        {
+          "src": "./assets/img/projects/p12/p12-02-lg.webp",
+          "small": "./assets/img/projects/p12/p12-02-sm.webp",
+          "width": 1440,
+          "height": 1080,
+          "alt": "乐清文化馆周边景观提升 项目图片 2"
+        },
+        {
+          "src": "./assets/img/projects/p12/p12-03-lg.webp",
+          "small": "./assets/img/projects/p12/p12-03-sm.webp",
+          "width": 944,
+          "height": 1120,
+          "alt": "乐清文化馆周边景观提升 项目图片 3"
+        }
+      ]
+    },
+    {
+      "page": "37",
+      "title": "乐清文化馆咖啡馆",
+      "location": "温州·乐清",
+      "area": "200 ㎡",
+      "summary": "场地位于文化馆大厅与内庭的转角处，将吧台面向两处开放，起到 \" 链接 \" 的作用 ...",
+      "id": "p13",
+      "featured": false,
+      "images": [
+        {
+          "src": "./assets/img/projects/p13/p13-01-lg.webp",
+          "small": "./assets/img/projects/p13/p13-01-sm.webp",
+          "width": 1000,
+          "height": 1500,
+          "alt": "乐清文化馆咖啡馆 项目图片 1"
+        },
+        {
+          "src": "./assets/img/projects/p13/p13-02-lg.webp",
+          "small": "./assets/img/projects/p13/p13-02-sm.webp",
+          "width": 1000,
+          "height": 1500,
+          "alt": "乐清文化馆咖啡馆 项目图片 2"
+        },
+        {
+          "src": "./assets/img/projects/p13/p13-03-lg.webp",
+          "small": "./assets/img/projects/p13/p13-03-sm.webp",
+          "width": 996,
+          "height": 1500,
+          "alt": "乐清文化馆咖啡馆 项目图片 3"
+        },
+        {
+          "src": "./assets/img/projects/p13/p13-04-lg.webp",
+          "small": "./assets/img/projects/p13/p13-04-sm.webp",
+          "width": 993,
+          "height": 1500,
+          "alt": "乐清文化馆咖啡馆 项目图片 4"
+        }
+      ]
+    },
+    {
+      "page": "39",
+      "title": "無料书铺 - 瑞安新湖店",
+      "location": "温州·瑞安",
+      "area": "150 ㎡",
+      "summary": "封闭空间的颗粒化 ... 场地中间的设备房体量巨大，我们用废弃的青砖砌到墙体表面，从而将大墙碎片化，再将玻璃砖均匀镶嵌其中，作为书籍的显示台。 现场顶部整齐地排布着包裹了银色保温膜的空调风机，而且移动起来比较困难，索性，我们就复制这些空调风机的尺寸，用来制作书台和灯箱，让他们均匀地散布在整个场地中，围绕中间的设备房创造一种均质的颗粒化空间状态，不容易感知出原来的空间大小。 入口区大量的线性体块，把人们引导到后面的密集书架区，同时这里也能举办小型沙龙。我们希望用密集的铁架创造沙龙区独特的气氛和仪式感。在这里，由于铁架的密度，空间大小将很难被感知。最后，我们在唯一能采光的角落设置了休息区，压低了这里的层高，室内空间将从这里被挤压到室外 ...",
+      "id": "p14",
+      "featured": false,
+      "images": [
+        {
+          "src": "./assets/img/projects/p14/p14-01-lg.webp",
+          "small": "./assets/img/projects/p14/p14-01-sm.webp",
+          "width": 681,
+          "height": 1009,
+          "alt": "無料书铺 - 瑞安新湖店 项目图片 1"
+        },
+        {
+          "src": "./assets/img/projects/p14/p14-02-lg.webp",
+          "small": "./assets/img/projects/p14/p14-02-sm.webp",
+          "width": 392,
+          "height": 704,
+          "alt": "無料书铺 - 瑞安新湖店 项目图片 2"
+        },
+        {
+          "src": "./assets/img/projects/p14/p14-03-lg.webp",
+          "small": "./assets/img/projects/p14/p14-03-sm.webp",
+          "width": 794,
+          "height": 1120,
+          "alt": "無料书铺 - 瑞安新湖店 项目图片 3"
+        }
+      ]
+    },
+    {
+      "page": "41",
+      "title": "鹿城区人才客厅咖啡馆",
+      "location": "温州·鹿城",
+      "area": "170 ㎡",
+      "summary": "伸到南塘河的咖啡馆无敌景观面前，空间只需要做到融入。木质平台的引入加大了空间层次，区分了主要的临水空间，也让这一侧空间更加松弛有度 ... 室内增加更多的绿植与室外景观互动，让人们包裹在自然的舒适氛围中 ...",
+      "id": "p15",
+      "featured": false,
+      "images": [
+        {
+          "src": "./assets/img/projects/p15/p15-01-lg.webp",
+          "small": "./assets/img/projects/p15/p15-01-sm.webp",
+          "width": 703,
+          "height": 1032,
+          "alt": "鹿城区人才客厅咖啡馆 项目图片 1"
+        },
+        {
+          "src": "./assets/img/projects/p15/p15-02-lg.webp",
+          "small": "./assets/img/projects/p15/p15-02-sm.webp",
+          "width": 462,
+          "height": 616,
+          "alt": "鹿城区人才客厅咖啡馆 项目图片 2"
+        },
+        {
+          "src": "./assets/img/projects/p15/p15-03-lg.webp",
+          "small": "./assets/img/projects/p15/p15-03-sm.webp",
+          "width": 862,
+          "height": 1124,
+          "alt": "鹿城区人才客厅咖啡馆 项目图片 3"
+        }
+      ]
+    },
+    {
+      "page": "43",
+      "title": "龙港月湖公园城市营地",
+      "location": "温州·龙港",
+      "area": "20000 ㎡",
+      "summary": "围绕月湖 Moonlake 城市营地一期打造理念，进行月湖公园全域运营管理提升打造，开启商业化 + 市民持续友好双属性，融入高端餐饮、装备租赁、装备陈列、核心服务空间、配套功能等全面功能提升，符合运营要求，按照空间布局规划 + 业态运营规划两大板块对本案进行定位。",
+      "id": "p16",
+      "featured": true,
+      "images": [
+        {
+          "src": "./assets/img/projects/p16/p16-01-lg.webp",
+          "small": "./assets/img/projects/p16/p16-01-sm.webp",
+          "width": 499,
+          "height": 607,
+          "alt": "龙港月湖公园城市营地 项目图片 1"
+        },
+        {
+          "src": "./assets/img/projects/p16/p16-02-lg.webp",
+          "small": "./assets/img/projects/p16/p16-02-sm.webp",
+          "width": 75,
+          "height": 135,
+          "alt": "龙港月湖公园城市营地 项目图片 2"
+        },
+        {
+          "src": "./assets/img/projects/p16/p16-03-lg.webp",
+          "small": "./assets/img/projects/p16/p16-03-sm.webp",
+          "width": 563,
+          "height": 399,
+          "alt": "龙港月湖公园城市营地 项目图片 3"
+        }
+      ]
+    }
+  ]
+}

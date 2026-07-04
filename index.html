@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>半格设计研究室 | HALF ARCHITECTS</title>
+    <meta
+      name="description"
+      content="半格设计研究室官方网站。展示 2018-2025 年商业空间、文化空间与公共空间设计作品。"
+    />
+    <link
+      rel="preload"
+      as="image"
+      href="./assets/img/hero-lg.webp"
+      imagesrcset="./assets/img/hero-sm.webp 900w, ./assets/img/hero-lg.webp 1900w"
+      imagesizes="100vw"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./script.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header" aria-label="主导航">
+      <a class="brand-link" href="#top" aria-label="回到首页">半格</a>
+      <nav class="nav-links" aria-label="页面导航">
+        <a href="#studio">研究室</a>
+        <a href="#projects">作品</a>
+        <a href="#contact">联系</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <picture class="hero-media" aria-hidden="true">
+          <source media="(max-width: 720px)" srcset="./assets/img/hero-sm.webp" />
+          <img src="./assets/img/hero-lg.webp" alt="" />
+        </picture>
+        <div class="hero-shade" aria-hidden="true"></div>
+        <div class="hero-content">
+          <p class="eyebrow">2018-2025 / HALF ARCHITECTS</p>
+          <h1 id="hero-title">半格设计研究室</h1>
+          <p class="hero-copy">
+            以商业空间、公共文化与城市更新为主要实践现场，在尺度、秩序与日常使用之间寻找新的空间关系。
+          </p>
+        </div>
+        <a class="scroll-cue" href="#projects" aria-label="查看作品">作品</a>
+      </section>
+
+      <section class="studio-section" id="studio" aria-labelledby="studio-title">
+        <div class="section-kicker">Studio</div>
+        <div class="studio-grid">
+          <h2 id="studio-title">把商业空间作为一种可以被阅读的公共经验。</h2>
+          <div class="studio-copy">
+            <p>
+              半格设计研究室延续 HALF ARCHITECTS 的作品脉络，关注书店、咖啡、图书馆、城市驿站与公共空间的再组织。
+            </p>
+            <p>
+              我们把设计看作一种空间研究：从人流、界面、材料与场景出发，让商业空间拥有可停留、可阅读、可再次生长的秩序。
+            </p>
+          </div>
+        </div>
+        <div class="studio-stats" aria-label="研究室概况">
+          <span><strong>16</strong> 项作品</span>
+          <span><strong>2018-2025</strong> 作品脉络</span>
+          <span><strong>温州 / 上海 / 杭州</strong> 实践现场</span>
+        </div>
+      </section>
+
+      <section class="work-section" id="projects" aria-labelledby="projects-title">
+        <div class="work-heading">
+          <div>
+            <div class="section-kicker">Works</div>
+            <h2 id="projects-title">作品</h2>
+          </div>
+          <p>
+            从 2025 版作品集中整理出的 16 个项目。点击任一项目，可查看文字简介和更多现场图片。
+          </p>
+        </div>
+
+        <div class="project-grid" id="project-grid" aria-live="polite">
+          <p class="loading-note">正在载入作品...</p>
+        </div>
+      </section>
+
+      <section class="approach-section" aria-labelledby="approach-title">
+        <div class="section-kicker">Approach</div>
+        <h2 id="approach-title">从小尺度的使用感开始，回到空间的整体秩序。</h2>
+        <div class="approach-list">
+          <p>在旧建筑里保留时间，让新的介入保持清晰。</p>
+          <p>在商业界面里制造停留，让路径、货架、光和材料共同组织体验。</p>
+          <p>在公共空间里连接日常，让项目既能被使用，也能被记住。</p>
+        </div>
+      </section>
+
+      <section class="contact-section" id="contact" aria-labelledby="contact-title">
+        <div>
+          <div class="section-kicker">Contact</div>
+          <h2 id="contact-title">合作咨询</h2>
+        </div>
+        <div class="contact-copy">
+          <p>这里预留正式联系方式位置：邮箱、电话、微信、地址或社交媒体链接都可以放入。</p>
+          <p>第一版暂不填写未确认信息，避免官网上线后出现错误联系入口。</p>
+        </div>
+      </section>
+    </main>
+
+    <div class="modal" id="project-modal" aria-hidden="true">
+      <div class="modal-backdrop" data-close-modal></div>
+      <article class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+        <button class="modal-close" type="button" data-close-modal aria-label="关闭项目详情">×</button>
+        <div class="modal-text">
+          <p class="modal-index" id="modal-index"></p>
+          <h2 id="modal-title"></h2>
+          <dl class="modal-meta" id="modal-meta"></dl>
+          <p id="modal-summary"></p>
+        </div>
+        <div class="modal-gallery" id="modal-gallery"></div>
+      </article>
+    </div>
+  </body>
+</html>
